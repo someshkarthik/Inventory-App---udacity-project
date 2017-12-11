@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".InventoryLogActivity">
+
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/ic_info_icon_24dp"
+        android:title="about"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/Instructions"
+        android:title="Instructions"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Insert_Dummy_Data"
+        android:title="Insert Dummy Data"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/deleteall"
+        android:title="Delete All"
+        app:showAsAction="never"
+        />
+
+</menu>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="title_activity_inventory_input_acivity">InventoryInputAcivity</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:layout_height="270dp"
+    android:background="@drawable/emptyviewdialog"
+    android:padding="5dp"
+    android:layout_gravity="center"
+    >
+    <TextView
+        android:id="@+id/txtclose"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:textColor="#ffff"
+        android:text="X"
+        android:textStyle="bold"
+        android:layout_gravity="end"
+        android:gravity="center"
+        android:background="@drawable/circlebackground"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Read ME!!"
+        android:textColor="#ffff"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:paddingLeft="20dp"
+        />
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-> To insert a dummy data, Click the 'Insert dummy data' in more options menu"
+        android:textColor="#ffff"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-> LONG CLICK the Product to view its details"
+        android:textColor="#ffff"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-> ONE CLICK the Product to decrease its quantity by 1"
+        android:textColor="#ffff"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+
+
+
+
+</LinearLayout>

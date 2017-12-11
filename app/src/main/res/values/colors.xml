@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+
+    <!-- Darker variant for the status bar and contextual app bars -->
+    <color name="colorPrimaryDark">#00695C</color>
+
+    <!-- Accent color for UI controls like checkboxes and text fields -->
+    <color name="colorAccent">#009688</color>
+
+    <!-- Primary color for the editor -->
+    <color name="editorColorPrimary">#3F51B5</color>
+
+    <!-- Primary dark color for the editor -->
+    <color name="editorColorPrimaryDark">#283593</color>
+
+    <color name="editorColorAccent">#3F51B5</color>
+    <color name="detailColorPrimary">#EC407A</color>
+
+    <!-- Primary dark color for the editor -->
+    <color name="detailColorPrimaryDark">#292b3d</color>
+    <color name="detailColorAccent">#EC407A</color>
+
+    <color name="detailColorAccent1">#006064</color>
+    <color name="graylight">#fafafa</color>
+    <color name="startblue">#09c6df</color>
+    <color name="endblue">#0bcce6</color>
+</resources>
